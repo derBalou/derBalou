@@ -21,5 +21,5 @@ jobs:
     runs-on: self-hosted
     steps:
       - name: Echo
-      - run: echo Test
+        run: echo Test
         
